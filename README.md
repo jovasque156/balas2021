@@ -7,6 +7,7 @@ Academic Warnings in a Latin America University", presented in BALAS-2021. Pleas
 Any questions, you can contact us in: jvasqu6@gmu.edu, jonathan.vasquez@uv.cl, cesar@fen.uchile.cl
 
 Authors:
+
 Jonathan Vásquez Verdugo
 PhD Student, George Mason University
 Adjunct Professor, Universidad de Valparaíso
